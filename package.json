@@ -1,0 +1,22 @@
+{
+  "name": "tailwind-card",
+  "version": "1.0.0",
+  "description": "A simple and flexible package for making cards with TailwindCSS (React, Next). ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soetch/tailwind-card.git"
+  },
+  "author": "Soetch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Soetch/tailwind-card/issues"
+  },
+  "homepage": "https://github.com/Soetch/tailwind-card#readme",
+  "publishConfig": {
+    "@Soetch:registry": "https://npm.pkg.github.com"
+  }
+}
