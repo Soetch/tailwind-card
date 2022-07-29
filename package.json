@@ -1,5 +1,5 @@
 {
-  "name": "tailwind-card",
+  "name": "@soetch/tailwind-card",
   "version": "1.0.0",
   "description": "A simple and flexible package for making cards with TailwindCSS (React, Next). ",
   "main": "index.js",
